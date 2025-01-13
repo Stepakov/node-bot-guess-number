@@ -15,6 +15,10 @@
     "nodemon": "^3.1.9"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.66.0"
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "psql": "^0.0.1",
+    "sequelize": "^6.37.5"
   }
 }
